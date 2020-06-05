@@ -16,7 +16,7 @@ Creation of the training and test dataset. This file transforms the daily return
 This file implements the Convolutional Neural Network, trains it using the created images and tests it against the test set of images.
 
 #### ----- Directory Structure: ----- ####
-Keras requietes the Input Data to be in the following directory structure:
+Keras requires the Input Data to be in the following directory structure:
 Layer1: Notebooks
   Layer2: fullpriceinput.csv, y_train.csv, y_test.csv
     Layer3_A: RawStockData as dir of .txt files
